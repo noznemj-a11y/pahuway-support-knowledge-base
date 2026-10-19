@@ -40,6 +40,7 @@ Escalate to a supervisor or security when:
 ## Related articles
 
 - [Guest Complaint Escalation Guide](guest-complaint-escalation-guide.md)
+- [Resort Maintenance Guide](resort-maintenance-guide.md)
 - [Late Check-out and Early Check-in](late-checkout-and-early-check-in.md)
 - [Wi-Fi Troubleshooting](wifi-troubleshooting.md)
 - [Noise Complaint Handling](noise-complaint-handling.md)

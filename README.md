@@ -27,6 +27,8 @@ A customer support knowledge base for the front-desk and guest-support team at P
 | [Room Key Card Troubleshooting](articles/room-key-card-troubleshooting.md) | How to fix a key card that will not open a door and issue a replacement safely. |
 | [Noise Complaint Handling](articles/noise-complaint-handling.md) | How to respond to a guest reporting noise and how to follow up with the noisy party. |
 | [Lost and Found Items](articles/lost-and-found-items.md) | How to log, protect, and return items guests leave behind, and help guests who lost something. |
+| [Employee and Friends & Family Discount](articles/employee-and-friends-family-discount.md) | How to verify eligibility for and apply the employee or friends & family discount rate. |
+| [Resort Maintenance Guide](articles/resort-maintenance-guide.md) | How to handle a guest's maintenance report, from logging the ticket to following up after the fix. |
 
 ## Reply templates
 
@@ -35,3 +37,4 @@ A customer support knowledge base for the front-desk and guest-support team at P
 | [Apology for an Inconvenience](templates/apology-for-inconvenience.md) | A guest had a problem and you want to apologize and explain what happens next. |
 | [Confirmation of a Refund](templates/refund-confirmation.md) | A refund has been approved and you need to confirm the details. |
 | [Follow-up After a Resolved Complaint](templates/follow-up-after-resolved-complaint.md) | A complaint has been resolved and you want to check in with the guest. |
+| [Maintenance Issue Notification](templates/maintenance-issue-notification.md) | You need to update a guest on a maintenance issue's status, from technician dispatch to resolution. |

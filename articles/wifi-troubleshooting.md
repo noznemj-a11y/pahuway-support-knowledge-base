@@ -45,6 +45,7 @@ Escalate to a supervisor if the guest is asking for compensation. See the [guest
 
 - [Guest Complaint Escalation Guide](guest-complaint-escalation-guide.md)
 - [Room Key Card Troubleshooting](room-key-card-troubleshooting.md)
+- [Resort Maintenance Guide](resort-maintenance-guide.md)
 - [Late Check-out and Early Check-in](late-checkout-and-early-check-in.md)
 - [Noise Complaint Handling](noise-complaint-handling.md)
 - [Refund and Cancellation Policy](refund-and-cancellation-policy.md)
